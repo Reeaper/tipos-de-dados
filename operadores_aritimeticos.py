@@ -1,0 +1,11 @@
+a = int(5)
+b = int(8)
+
+print("primeiro valor:",a,"segundo valor:",b)
+print("soma", a+b)
+print("subtração",a-b)
+print("multiplicação",a*b)
+print("divisão",a/b)
+print("resto",a%b)
+print("potenciação",a**b)
+print("radiciação",a//b)

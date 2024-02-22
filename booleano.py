@@ -1,0 +1,10 @@
+a = int(8)
+b = int(9)
+
+print("primeiro valor:",a,"segundo valor:",b)
+print("os valores são iguais?:",a==b)
+print("os valores não são iguais?:",a!=b)
+print("o 1° valor é maior que o 2°?:",a>b)
+print("o 1° valor é menor que o 2°?:",a<b)
+print("o 1° valor é maior ou igual ao 2°?:",a>=b)
+print("o 1° valor é menor ou igual ao 2°?:",a<=b)
